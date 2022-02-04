@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](/images/screenshot.PNG?raw=true)
+![screenshot](./images/screenshot.PNG)
 
 
 ### Links
