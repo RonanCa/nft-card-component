@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./images/screenshot.PNG)
+![screenshot(https://github.com/RonanCa/nft-card-component/blob/main/nft-preview-card-component-main/images/screenshot.PNG)
 
 
 ### Links
