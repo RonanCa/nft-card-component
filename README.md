@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/relative/path/to/screenshot.PNG?raw=true "Optional Title")
+![Screenshot](/relative/images/screenshot.PNG?raw=true)
 
 
 ### Links
